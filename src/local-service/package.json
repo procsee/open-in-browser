@@ -1,0 +1,16 @@
+{
+  "name": "open-in-browser-local-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "procsee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
